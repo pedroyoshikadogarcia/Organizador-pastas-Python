@@ -26,7 +26,7 @@ Uma ferramenta em linha de comando (CLI) desenvolvida em Python para automatizar
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/organizador-pastas-python.git](https://github.com/seu-usuario/organizador-pastas-python.git)
+   git clone https://github.com/pedroyoshikadogarcia/Organizador-pastas-Python.git
    cd organizador-pastas-python
     ```
 2. **Configuração do caminho:**
